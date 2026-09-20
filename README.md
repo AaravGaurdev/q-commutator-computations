@@ -21,4 +21,4 @@ python verify_exact_examples.py
 
 Python: 3.9.13
 
-Random seed: 20260919
+Random seed: 2026

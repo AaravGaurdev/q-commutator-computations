@@ -8,7 +8,7 @@ from scipy.linalg import eigh
 Q_VALUES = (-2.0, -1.5, -1.0, -0.5, -0.25)
 N_VALUES = range(4, 11)
 STARTS = 120
-SEED = 20260919
+SEED = 2026
 TOL = 1.0e-10
 MAX_ITER = 500
 
